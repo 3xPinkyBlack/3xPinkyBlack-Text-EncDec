@@ -1,6 +1,6 @@
 # Simple Encryption Algorithm For TextFiles or SourceCodes
 # It Only Works With ASCII Characters 
-# Coded By 3xPinkyB
+# Coded By 3xPinkyBlack(Habib Endris AJ)
 
 # I am Not Responsible For any MisUse This Source Code or
 # any Damage in any Way Please Use it Responsibly and For Education Purposes only
